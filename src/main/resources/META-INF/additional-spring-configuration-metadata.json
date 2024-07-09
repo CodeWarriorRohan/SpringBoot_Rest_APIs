@@ -1,0 +1,40 @@
+{"properties": [
+  {
+    "name": "spring.datasourse.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.driver-class-name'"
+  }
+]} "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.driver-class-name'"
+  }
+]} "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.password'"
+  }
+]} "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.password'"
+  }
+]} "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.password'"
+  }
+]}
